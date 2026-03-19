@@ -2,7 +2,7 @@
 
 - Машинное обучение для 
 - Предсказание оттока клиентов
-- XGBoost, CatBoost
+- sklearn, CatBoost, pandas
 
 # Описание
 
